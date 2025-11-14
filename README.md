@@ -1,0 +1,1 @@
+# SimpC++ is a simple std replacement that dont hold to legacy garbage api.
