@@ -5,8 +5,6 @@
 #include <iostream>
 #include <string>
 
-
 namespace simp {
 #include "parts/tuple.h"
-
 }
